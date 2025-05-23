@@ -16,7 +16,7 @@ function App() {
           <img src={reactLogo} className="logo react" alt="React logo" />
         </a>
       </div>
-      <h1>Vite + React E Commerce System CI workflow 5.0.4 [SECS-6-update-order-status][SECS-7-frontend Update000004]</h1>
+      <h1>Vite + React E Commerce System CI workflow 5.0.5 [SECS-6-update-order-status][SECS-7-frontend Update000004]</h1>
       <div className="card">
         <button onClick={() => setCount((count) => count + 1)}>
           count is {count}
